@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+  <owner>Fistachka</owner>
+  <repo>fantazer2</repo>
+  <version>v1.0.0</version>
+  <next number="1" owner="Fistachka" repo="fantazer2"/>
+  <readme>
+    <ru>dd2cbb2b60be3d6c92526704b055759d7ca6eaae57f121e8fdb3837bde313926</ru>
+    <en>2c1fe8edc859e31f62b9bb491bd6cff3bf1ae5d6485a26f222412327443aa149</en>
+  </readme>
+  <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
+  <exercise number="1">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="1t.mp4" size="2333539" type="video/mp4" volume="0.5">397b45e34525a6c18bee56217473d8e22b117bdf685453e38b21a627d9be6573</video>
+    <notes>
+      <note number="1" values="5" ticks="942" durationTicks="25" ppq="96" velocity="0.794"/>
+      <note number="2" values="6" ticks="966" durationTicks="24" ppq="96" velocity="0.779"/>
+      <note number="3" values="5" ticks="992" durationTicks="50" ppq="96" velocity="0.829"/>
+      <note number="4" values="4" ticks="1041" durationTicks="30" ppq="96" velocity="0.807"/>
+      <note number="5" values="4" ticks="1088" durationTicks="31" ppq="96" velocity="0.777"/>
+      <note number="6" values="4" ticks="1138" durationTicks="94" ppq="96" velocity="0.842"/>
+    </notes>
+  </exercise>
+  <exercise number="2">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="2.mp4" size="1941220" type="video/mp4" volume="0.5">15446ea860e51f7772009f17095c5481eb12ad350d89134729b00c1036df0e26</video>
+    <notes>
+      <note number="1" values="5" ticks="100" durationTicks="25" ppq="96" velocity="0.784"/>
+      <note number="2" values="6" ticks="126" durationTicks="23" ppq="96" velocity="0.779"/>
+      <note number="3" values="5" ticks="150" durationTicks="44" ppq="96" velocity="0.832"/>
+      <note number="4" values="4" ticks="198" durationTicks="35" ppq="96" velocity="0.772"/>
+      <note number="5" values="4" ticks="244" durationTicks="38" ppq="96" velocity="0.772"/>
+      <note number="6" values="4" ticks="292" durationTicks="95" ppq="96" velocity="0.824"/>
+    </notes>
+  </exercise>
+  <exercise number="3">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="3t.mp4" size="1489242" type="video/mp4" volume="0.5">b7387d139e4abcb789a7fbd7947efecc957cce0feac49bcaa03248832bcee1d2</video>
+    <notes>
+      <note number="1" values="4" ticks="31" durationTicks="48" ppq="96" velocity="0.792"/>
+      <note number="2" values="5" ticks="81" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="3" values="4" ticks="129" durationTicks="47" ppq="96" velocity="0.832"/>
+      <note number="4" values="3" ticks="179" durationTicks="55" ppq="96" velocity="0.754"/>
+      <note number="5" values="2" ticks="239" durationTicks="55" ppq="96" velocity="0.829"/>
+      <note number="6" values="3" ticks="297" durationTicks="95" ppq="96" velocity="0.864"/>
+    </notes>
+  </exercise>
+  <exercise number="4">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="4t.mp4" size="1384898" type="video/mp4" volume="0.5">a6440d8e59e773be031e05c05b445687f42619b42017b506d98f0eba65ebace4</video>
+    <notes>
+      <note number="1" values="3" ticks="135" durationTicks="48" ppq="96" velocity="0.787"/>
+      <note number="2" values="4" ticks="185" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="3" values="3" ticks="233" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="4" values="2" ticks="294" durationTicks="40" ppq="96" velocity="0.803"/>
+      <note number="5" values="2" ticks="351" durationTicks="38" ppq="96" velocity="0.784"/>
+      <note number="6" values="2" ticks="407" durationTicks="95" ppq="96" velocity="0.858"/>
+    </notes>
+  </exercise>
+  <exercise number="5">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="5.mp4" size="2550321" type="video/mp4" volume="0.5">8f6c61c4f215861fdeed2edbee40625dda342d1acbd449e3d88efe22d4b906ff</video>
+    <notes>
+      <note number="1" values="2" ticks="121" durationTicks="24" ppq="96" velocity="0.787"/>
+      <note number="2" values="3" ticks="157" durationTicks="24" ppq="96" velocity="0.764"/>
+      <note number="3" values="2" ticks="192" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="4" values="1" ticks="244" durationTicks="45" ppq="96" velocity="0.803"/>
+      <note number="5" values="1" ticks="304" durationTicks="48" ppq="96" velocity="0.803"/>
+      <note number="6" values="1" ticks="371" durationTicks="95" ppq="96" velocity="0.858"/>
+    </notes>
+  </exercise>
+  <exercise number="6">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="6.mp4" size="2232565" type="video/mp4" volume="0.5">321e5c0af7abeb7481ddf55fef88250f4997bb87e2013e0310cfa42d0312e51c</video>
+    <notes>
+      <note number="1" values="5" ticks="144" durationTicks="38" ppq="96" velocity="0.78"/>
+      <note number="2" values="6" ticks="191" durationTicks="43" ppq="96" velocity="0.772"/>
+      <note number="3" values="5" ticks="241" durationTicks="48" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="290" durationTicks="31" ppq="96" velocity="0.837"/>
+      <note number="5" values="4" ticks="338" durationTicks="27" ppq="96" velocity="0.772"/>
+      <note number="6" values="4" ticks="386" durationTicks="95" ppq="96" velocity="0.757"/>
+    </notes>
+  </exercise>
+  <exercise number="7">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="7.mp4" size="1561778" type="video/mp4" volume="0.5">e575b32cbd57ab4e64fafd8ce0fc90d25ad592f43bea99b79b6866a73c277f02</video>
+    <notes>
+      <note number="1" values="5" ticks="62" durationTicks="25" ppq="96" velocity="0.78"/>
+      <note number="2" values="6" ticks="88" durationTicks="23" ppq="96" velocity="0.772"/>
+      <note number="3" values="5" ticks="112" durationTicks="44" ppq="96" velocity="0.827"/>
+      <note number="4" values="4" ticks="160" durationTicks="30" ppq="96" velocity="0.772"/>
+      <note number="5" values="4" ticks="206" durationTicks="28" ppq="96" velocity="0.772"/>
+      <note number="6" values="4" ticks="254" durationTicks="95" ppq="96" velocity="0.819"/>
+    </notes>
+  </exercise>
+  <exercise number="8">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="8.mp4" size="2693420" type="video/mp4" volume="0.5">90ba653afd1402d757d31d18bcbd4a94041b8b48926b4789d59a5acf2a688847</video>
+    <notes>
+      <note number="1" values="5" ticks="49" durationTicks="41" ppq="96" velocity="0.757"/>
+      <note number="2" values="4" ticks="96" durationTicks="41" ppq="96" velocity="0.797"/>
+      <note number="3" values="3" ticks="151" durationTicks="47" ppq="96" velocity="0.729"/>
+      <note number="4" values="2" ticks="204" durationTicks="52" ppq="96" velocity="0.752"/>
+      <note number="5" values="3" ticks="265" durationTicks="97" ppq="96" velocity="0.803"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="9.mp4" size="2605796" type="video/mp4" volume="0.5">21c9f32a2a2ea66af3eeed98be4c03f7c7261a2ae70ad8e0536c1139297c6d39</video>
+    <notes>
+      <note number="1" values="3" ticks="145" durationTicks="48" ppq="96" velocity="0.787"/>
+      <note number="2" values="4" ticks="195" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="3" values="3" ticks="243" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="4" values="2" ticks="293" durationTicks="29" ppq="96" velocity="0.803"/>
+      <note number="5" values="2" ticks="341" durationTicks="27" ppq="96" velocity="0.803"/>
+      <note number="6" values="2" ticks="387" durationTicks="95" ppq="96" velocity="0.858"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>minor</scale>
+    <cadenceVariant>harmonic</cadenceVariant>
+    <bpm>131</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>1</tonalities>
+    <video name="10.mp4" size="2416501" type="video/mp4" volume="0.5">02c103040eef5def6007ce9fce50ec9a1437b8c1d7e1602d0c964f528735523d</video>
+    <notes>
+      <note number="1" values="2" ticks="159" durationTicks="36" ppq="96" velocity="0.787"/>
+      <note number="2" values="3" ticks="203" durationTicks="41" ppq="96" velocity="0.764"/>
+      <note number="3" values="2" ticks="251" durationTicks="47" ppq="96" velocity="0.827"/>
+      <note number="4" values="1" ticks="301" durationTicks="35" ppq="96" velocity="0.803"/>
+      <note number="5" values="1" ticks="348" durationTicks="31" ppq="96" velocity="0.803"/>
+      <note number="6" values="1" ticks="396" durationTicks="95" ppq="96" velocity="0.858"/>
+    </notes>
+  </exercise>
+</level>
