@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>fantazer2</repo>
-  <version>v1.0.19</version>
+  <version>v1.0.20</version>
   <next number="1" owner="Fistachka" repo="fantazer3"/>
   <readme>
-    <ru>273566d0616b893aed2ff835d6d8f091fa525f2d793cd73fa5effb52fd9e64dc</ru>
-    <en>95956c0205c9090eab5d7dafbf2a53bc5f534d2d6a322e2890f3466a5e98c9fa</en>
+    <ru>0a6bb9c7eb5816ed7fdb213001fac224a9476fa7a3043c12d93d502517dd302a</ru>
+    <en>d09672f5609f7af7c0c9d99175d446e8580abbe14550ee527bf811b528549dc1</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -15,7 +15,7 @@
     <bpm>131</bpm>
     <lowestNote>4</lowestNote>
     <tonalities>1</tonalities>
-    <video name="11.mp4" size="1625664" type="video/mp4" volume="0.5">f705801fba39c5206afe211423bd92c1b6bc8e2332a14416a44cddbc038d26dd</video>
+    <video name="11.mp4" size="1625664" type="video/mp4" volume="0.5">3088f04fe51a18ffad2dac3a3aac21efd484bb5742a5f84a47617adb6f7a8730</video>
     <notes>
       <note number="1" values="5" ticks="120" durationTicks="43" ppq="96" velocity="0.78"/>
       <note number="2" values="6" ticks="168" durationTicks="45" ppq="96" velocity="0.772"/>
