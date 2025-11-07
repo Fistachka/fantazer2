@@ -15,7 +15,7 @@
 Но тебе не нужна неземная любовь
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c =200x200)
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/43877242-ce51-44ca-8582-d206088bd0ef =200x200)
 stolbitsa.com/fistachka/fantazer<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -34,6 +34,6 @@ No tebe ne nuzhna
 No tebe ne nuzhna nezemnaya lyubov'
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/766429d5-318c-4e05-a012-b9d58e909f8c =200x200)
-stolbitsa.com/fistachka/ohrana<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/43877242-ce51-44ca-8582-d206088bd0ef =200x200)
+stolbitsa.com/fistachka/fantazer<br><br>
 
