@@ -5,7 +5,7 @@
 
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/obbPLiUjrJk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zSXJFp-BMiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWYCVIXeuno" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 Я к тебе приходил и в морозы и в зной
 Я тебе говорил
@@ -24,7 +24,7 @@ stolbitsa.com/fistachka/fantazer<br><br>
 ![з4](https://github.com/user-attachments/assets/3d260aa3-82a2-44a9-85a6-03857ae26b3c)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/mKZ8lVnfda0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAdJu8cr2FM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qy9IpNRUoSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 YA k tebe prihodil i v morozy i v znoj
 YA tebe govoril
